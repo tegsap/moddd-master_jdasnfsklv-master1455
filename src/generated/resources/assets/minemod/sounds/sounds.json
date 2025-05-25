@@ -1,0 +1,10 @@
+{
+  "entity.villager.haggle": {
+    "sounds": [
+      {
+        "name": "minemod:sounds/new_sound",
+        "stream": false
+      }
+    ]
+  }
+}
